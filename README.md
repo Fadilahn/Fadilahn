@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a student from Computer Science, Indonesia University of Education'2021
+
 <!--
 **Fadilahn/Fadilahn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
